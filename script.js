@@ -60,7 +60,7 @@ $(document).ready(function () {
   document.getElementById("textarea-13").innerHTML = local13;
 
   var local14 = localStorage.getItem('14');
-  document.getElementById("textarea-14").innerHTML = local15;
+  document.getElementById("textarea-14").innerHTML = local14;
 
   var local15 = localStorage.getItem('15');
   document.getElementById("textarea-15").innerHTML = local15;
