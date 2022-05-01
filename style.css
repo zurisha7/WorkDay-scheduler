@@ -5,12 +5,16 @@ body {
 }
 
 .textarea{
-  background: transparent;
+  
   border: none;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  background-color: gray;
+  display: flex;
+}
+  
   
 }
 
@@ -50,21 +54,25 @@ body {
 
 .text{
     background-color: gray;
+    display: flex;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: red;
   color: white;
+  display:flex
 }
 
 .present {
   background-color: #ff6961;
   color: white;
+  display:flex
 }
 
 .future {
   background-color: #77dd77;
   color: white;
+  display:flex;
 }
 
 .saveBtn {
